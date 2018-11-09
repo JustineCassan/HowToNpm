@@ -1,0 +1,15 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "learn npm with how-to-npm",
+  "main": "index.js",
+  "repository": "https://github.com/JustineCassan/HowToNpm",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "justine",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
